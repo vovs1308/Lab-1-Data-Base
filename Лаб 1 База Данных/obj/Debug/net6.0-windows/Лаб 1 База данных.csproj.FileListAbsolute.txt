@@ -1,0 +1,35 @@
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\Лаб 1 База данных\Лаб 1 База данных\bin\Debug\net6.0-windows\Лаб 1 База данных.exe
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\Лаб 1 База данных\Лаб 1 База данных\bin\Debug\net6.0-windows\Лаб 1 База данных.deps.json
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\Лаб 1 База данных\Лаб 1 База данных\bin\Debug\net6.0-windows\Лаб 1 База данных.runtimeconfig.json
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\Лаб 1 База данных\Лаб 1 База данных\bin\Debug\net6.0-windows\Лаб 1 База данных.dll
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\Лаб 1 База данных\Лаб 1 База данных\bin\Debug\net6.0-windows\Лаб 1 База данных.pdb
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб 1 База данных.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб_1_База_данных.Form1.resources
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб 1 База данных.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб 1 База данных.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб 1 База данных.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб 1 База данных.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб 1 База данных.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб 1 База данных.dll
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\refint\Лаб 1 База данных.dll
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб 1 База данных.pdb
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб 1 База данных.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Учеба сис анал\3 курс\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\ref\Лаб 1 База данных.dll
+C:\Users\Admin\source\repos\Лаб 1 База данных\Лаб 1 База данных\bin\Debug\net6.0-windows\Лаб 1 База данных.exe
+C:\Users\Admin\source\repos\Лаб 1 База данных\Лаб 1 База данных\bin\Debug\net6.0-windows\Лаб 1 База данных.deps.json
+C:\Users\Admin\source\repos\Лаб 1 База данных\Лаб 1 База данных\bin\Debug\net6.0-windows\Лаб 1 База данных.runtimeconfig.json
+C:\Users\Admin\source\repos\Лаб 1 База данных\Лаб 1 База данных\bin\Debug\net6.0-windows\Лаб 1 База данных.dll
+C:\Users\Admin\source\repos\Лаб 1 База данных\Лаб 1 База данных\bin\Debug\net6.0-windows\Лаб 1 База данных.pdb
+C:\Users\Admin\source\repos\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб 1 База данных.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб_1_База_данных.Form1.resources
+C:\Users\Admin\source\repos\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб 1 База данных.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб 1 База данных.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб 1 База данных.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб 1 База данных.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб 1 База данных.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб 1 База данных.dll
+C:\Users\Admin\source\repos\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\refint\Лаб 1 База данных.dll
+C:\Users\Admin\source\repos\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб 1 База данных.pdb
+C:\Users\Admin\source\repos\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб 1 База данных.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\ref\Лаб 1 База данных.dll
+C:\Users\Admin\source\repos\Лаб 1 База данных\Лаб 1 База данных\obj\Debug\net6.0-windows\Лаб_1_База_данных.Properties.Resources.resources
